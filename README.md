@@ -168,10 +168,6 @@ NAT (lwIP NAPT) is included in the ESP8266 core.
 
 ## 🔗 My Other Repositories
 
-Projects related to:
-- ESP8266 & ESP32
-- Arduino & embedded systems
-- Networking experiments
-- Python & automation
+I have projects related to Python and Arduino ect
 
 Visit my **GitHub profile** to explore more.
