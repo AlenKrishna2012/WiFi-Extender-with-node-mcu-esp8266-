@@ -18,6 +18,7 @@ NAT routes traffic between AP ↔ STA
 Clients get real internet access
 A web interface is used for setup
 This is not just a repeater — it performs true routing.
+
 ## ✨ Features
 ✅ Real NAT (lwIP NAPT)
 ✅ AP + STA mode simultaneously
