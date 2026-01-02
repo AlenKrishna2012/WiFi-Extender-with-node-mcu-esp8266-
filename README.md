@@ -47,25 +47,14 @@ This is not just a repeater — it performs true routing.
 ✅ Works like a mini router
 
 ## 🌐 Default Network Settings
-Item
 
-Value
+AP SSID:**ESP_NAT_Extender**
 
-AP SSID
+AP Password:**12345678**
 
-ESP_NAT_Extender
+AP IP Address:**192.168.4.1**
 
-AP Password
-
-12345678
-
-AP IP Address
-
-192.168.4.1
-
-Web UI
-
-http://192.168.4.1
+Web UI:**http://192.168.4.1**
 
 ## 🖥️ Web Interface Features
 Automatically scans nearby Wi-Fi networks
