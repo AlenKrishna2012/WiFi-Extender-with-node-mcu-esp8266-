@@ -142,9 +142,7 @@ Flash the code to ESP8266
 
 Power on the device
 
-Connect to Wi-Fi:
-
-**ESP_NAT_Extender**
+Connect to Wi-Fi:**ESP_NAT_Extender** password:123456789
 
 Open browser:
 
