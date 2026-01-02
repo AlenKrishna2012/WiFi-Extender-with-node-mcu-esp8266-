@@ -40,20 +40,6 @@ This is not just a repeater — it performs true routing.
 
 ✅ Works like a mini router
 
-## 🧠 How It Works (Network Flow)
-📱 Phone / Laptop
-     |
-     | 192.168.4.x
-     v
-📡 ESP8266 Access Point
-     IP: 192.168.4.1
-     |
-     |  NAT (Network Address Translation)
-     v
-🌐 ESP8266 STA Interface
-     IP: From Router (e.g. 192.168.1.50)
-     |
-🌍 Internet
 ## 🌐 Default Network Settings
 Item
 
